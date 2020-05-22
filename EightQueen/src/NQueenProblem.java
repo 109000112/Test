@@ -52,7 +52,7 @@ public class NQueenProblem {
         for (int i = 0; i < N; i++) {
             /* Check if the queen can be placed on
                board[i][col] */
-
+jkflhjLFJKLHSDJKFH
                 if (isSafe(board, i, col)) {
                     /* Place this queen in board[i][col] */
 
